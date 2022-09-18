@@ -1,0 +1,15 @@
+#time{
+  padding: 25px 30px;
+  font-size: 50px;
+}
+
+#buttons{
+  padding: 10px;
+}
+#start,#stop,#reset{
+  padding: 15px;
+  border-radius: 5px;
+  border: solid 1px;
+  font-weight: 800;
+  font-size: 15px;
+}
